@@ -1,0 +1,4 @@
+./report.html
+.venv
+.pytest_cache
+__pychache__
